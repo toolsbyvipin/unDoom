@@ -173,15 +173,15 @@ Full-stack applications, APIs, and experimental web tools.
 
 ## `> cat /var/log/stats`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=toolsbyvipin&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="GitHub Stats"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=toolsbyvipin&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF3333&currStreakLabel=00FF41" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toolsbyvipin&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Top Languages"/>
-
-</div>
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   "In a world full of users, be a root."                         ║
+║                                                                  ║
+║   "The quieter you become, the more you are able to hear."       ║
+║                                                                  ║
+║   "Build. Break. Learn. Repeat."                                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 
 ## `> traceroute /connect`
 
