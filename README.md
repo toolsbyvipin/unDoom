@@ -173,7 +173,7 @@ Full-stack applications, APIs, and experimental web tools.
 
 <div align="center">
 
-[![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=300&color=00FF41&background=0D1117&center=true&vCenter=true&width=800&height=200&lines=%24+whoami;VIP_IN;%24+cat+%2Fetc%2Fskills;Python+%7C+JavaScript+%7C+Security;%24+sudo+apt+install+success;Access+Granted;%24+echo+%22Welcome+to+the+darkside%22;Welcome+to+the+darkside;%24+_)]((https://git.io/typing-svg)
+[![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=300&color=00FF41&background=0D1117&center=true&vCenter=true&width=800&height=200&lines=%24+whoami;VIP_IN;%24+cat+%2Fetc%2Fskills;Python+%7C+JavaScript+%7C+Security;%24+sudo+apt+install+success;Access+Granted;%24+echo+%22Welcome+to+the+darkside%22;Welcome+to+the+darkside;%24+_)]
 
 </div>
 
@@ -181,9 +181,8 @@ Full-stack applications, APIs, and experimental web tools.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Telegram-@Nightking1515-00FF41?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"/>
 <img src="https://img.shields.io/badge/GitHub-toolsbyvipin-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Email-Contact-FF3333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-vipkum05@gmail.com-FF3333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 
 </div>
 
