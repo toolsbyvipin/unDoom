@@ -1,39 +1,42 @@
-markdown
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 <!--                         VIP_IN - PROFILE README                         -->
+
 <!--                         Owner: VIP_IN                                   -->
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-╔═══════════════════════════════════════════════════════════════════════╗
-║ ║
-║ ██╗ ██╗██╗██████╗ ██╗███╗ ██╗ ║
-║ ██║ ██║██║██╔══██╗ ██║████╗ ██║ ║
-║ ██║ ██║██║██████╔╝█████╗██║██╔██╗ ██║ ║
-║ ╚██╗ ██╔╝██║██╔═══╝ ╚════╝██║██║╚██╗██║ ║
-║ ╚████╔╝ ██║██║ ██║██║ ╚████║ ║
-║ ╚═══╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═══╝ ║
-║ ║
-║ >> SYSTEM INITIALIZED << ║
-║ >> ACCESS LEVEL: ROOT << ║
-║ ║
-╚═══════════════════════════════════════════════════════════════════════╝
 
-text
+```text
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║ ██╗   ██╗██╗██████╗ ____██╗███╗   ██╗                                 ║
+║ ██║   ██║██║██╔══██╗____██║████╗  ██║                                 ║
+║ ██║   ██║██║██████╔╝____██║██╔██╗ ██║                                 ║
+║ ╚██╗ ██╔╝██║██╔═══╝____ ██║██║╚██╗██║                                 ║
+║  ╚████╔╝ ██║██║    ____ ██║██║ ╚████║                                 ║
+║   ╚═══╝  ╚═╝╚═╝    ____╚═╝╚═╝  ╚═══╝                                  ║
+║                                                                       ║
+║                    >> SYSTEM INITIALIZED <<                           ║
+║                    >> ACCESS LEVEL: ROOT <<                           ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
 
 # `> whoami`
 
 **`VIP_IN`** — *Developer | Security Researcher | System Builder*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=%3E+Initializing+system...;%3E+Building+tools...;%3E+Access+granted.;%3E+Welcome+to+VIP_IN.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=3000\&pause=500\&color=00FF41\&background=00000000\&center=true\&vCenter=true\&width=600\&lines=%3E+Initializing+system...;%3E+Building+tools...;%3E+Access+granted.;%3E+Welcome+to+VIP_IN.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `> cat /etc/profile` 
-```yaml
+## `> cat /etc/profile`
 
+```text
 ┌─────────────────────────────────────────────────────────────┐
 │  IDENTITY                                                   │
 ├─────────────────────────────────────────────────────────────┤
@@ -44,8 +47,10 @@ text
 │  Clearance   : TIER 0                                       │
 └─────────────────────────────────────────────────────────────┘
 ```
-> ls -la /skills
-bash
+
+## `> ls -la /skills`
+
+```text
 drwxr-xr-x  root  root  [LANGUAGES]
 ├── Python          ████████████████████░░  95%
 ├── JavaScript      ███████████████████░░░  90%
@@ -68,54 +73,85 @@ drwxr-xr-x  root  root  [TOOLS]
 ├── SQLMap          ████████████████████░░  95%
 ├── Wireshark       ██████████████████░░░░  90%
 └── Custom Scripts  ██████████████████████  100%
-> ls /projects
-<table> <tr> <td width="50%">
-🔥 unDoom
-Focus extension for students. Blocks distractions, cleans YouTube, reminds to drink water.
+```
 
-https://img.shields.io/badge/Chrome-Extension-00FF41?style=flat-square&logo=googlechrome&logoColor=black
-https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+## `> ls /projects`
 
-</td> <td width="50%">
-💀 GRAPHIC-DESIGNING
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 unDoom
+
+Focus extension for students. Blocks distractions, cleans YouTube, and reminds users to drink water.
+
+<img src="https://img.shields.io/badge/Chrome-Extension-00FF41?style=flat-square&logo=googlechrome&logoColor=black" alt="Chrome Extension"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💀 GRAPHIC-DESIGNING
+
 Collection of design assets, hacking-themed graphics, and visual experiments.
 
-https://img.shields.io/badge/Design-Assets-FF0055?style=flat-square
-https://img.shields.io/badge/Graphics-Collection-00FF41?style=flat-square
+<img src="https://img.shields.io/badge/Design-Assets-FF0055?style=flat-square" alt="Design Assets"/>
+<img src="https://img.shields.io/badge/Graphics-Collection-00FF41?style=flat-square" alt="Graphics Collection"/>
 
-</td> </tr> <tr> <td width="50%">
-⚡ Security Tools
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Security Tools
+
 Custom pentesting scripts, automation tools, and exploit PoCs.
 
-https://img.shields.io/badge/Security-Pentesting-FF3333?style=flat-square
-https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+<img src="https://img.shields.io/badge/Security-Pentesting-FF3333?style=flat-square" alt="Security"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 
-</td> <td width="50%">
-🌐 Web Projects
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Web Projects
+
 Full-stack applications, APIs, and experimental web tools.
 
-https://img.shields.io/badge/Web-Full--Stack-00FF41?style=flat-square
-https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white
+<img src="https://img.shields.io/badge/Web-Full--Stack-00FF41?style=flat-square" alt="Web"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 
-</td> </tr> </table>
-> cat /var/log/stats
+</td>
+</tr>
+</table>
+
+## `> cat /var/log/stats`
+
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=toolsbyvipin&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9
 
-https://github-readme-streak-stats.herokuapp.com/?user=toolsbyvipin&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF3333&currStreakLabel=00FF41
+<img src="https://github-readme-stats.vercel.app/api?username=toolsbyvipin&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="GitHub Stats"/>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=toolsbyvipin&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=toolsbyvipin&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF3333&currStreakLabel=00FF41" alt="GitHub Streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toolsbyvipin&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Top Languages"/>
 
 </div>
-> traceroute /connect
+
+## `> traceroute /connect`
+
 <div align="center">
-https://img.shields.io/badge/Telegram-@Nightking1515-00FF41?style=for-the-badge&logo=telegram&logoColor=black
-https://img.shields.io/badge/GitHub-toolsbyvipin-00FF41?style=for-the-badge&logo=github&logoColor=black
-https://img.shields.io/badge/Email-Contact-FF3333?style=for-the-badge&logo=gmail&logoColor=white
+
+<img src="https://img.shields.io/badge/Telegram-@Nightking1515-00FF41?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"/>
+<img src="https://img.shields.io/badge/GitHub-toolsbyvipin-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Email-Contact-FF3333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 
 </div>
-> cat /etc/motd
-bash
+
+## `> cat /etc/motd`
+
+```text
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║   "In a world full of users, be a root."                         ║
@@ -125,19 +161,29 @@ bash
 ║   "Build. Break. Learn. Repeat."                                 ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
-> tail -f /var/log/activity
+```
+
+## `> tail -f /var/log/activity`
+
 <div align="center">
-https://github-readme-activity-graph.vercel.app/graph?username=toolsbyvipin&bg_color=0D1117&color=00FF41&line=00FF41&point=FF3333&area=true&hide_border=true
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=toolsbyvipin&bg_color=0D1117&color=00FF41&line=00FF41&point=FF3333&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
-> echo $QUOTE
+
+## `> echo $QUOTE`
+
 <div align="center">
-text
+
 > Freedom is never given. It is taken.
-> -- VIP_IN
+>
+> — **VIP_IN**
+
 </div>
+
 <div align="center">
-text
+
+```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   │
@@ -149,10 +195,10 @@ text
 │   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
-> _
+```
 
-Powered by caffeine, curiosity, and controlled chaos.
+**Powered by caffeine, curiosity, and controlled chaos.**
 
-https://komarev.com/ghpvc/?username=toolsbyvipin&color=00FF41&style=flat-square&label=VISITORS
+<img src="https://komarev.com/ghpvc/?username=toolsbyvipin&color=00FF41&style=flat-square&label=VISITORS" alt="Profile Views"/>
 
-</div> ```
+</div>
