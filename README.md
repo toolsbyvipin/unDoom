@@ -171,15 +171,9 @@ Full-stack applications, APIs, and experimental web tools.
 </tr>
 </table>
 
-## `> cat /var/log/stats`
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toolsbyvipin&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=toolsbyvipin&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF3333&currStreakLabel=00FF41)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toolsbyvipin&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9)
+[![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=300&color=00FF41&background=0D1117&center=true&vCenter=true&width=800&height=200&lines=%24+whoami;VIP_IN;%24+cat+%2Fetc%2Fskills;Python+%7C+JavaScript+%7C+Security;%24+sudo+apt+install+success;Access+Granted;%24+echo+%22Welcome+to+the+darkside%22;Welcome+to+the+darkside;%24+_)]((https://git.io/typing-svg)
 
 </div>
 
@@ -207,11 +201,9 @@ Full-stack applications, APIs, and experimental web tools.
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-## `> tail -f /var/log/activity`
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=toolsbyvipin&bg_color=0D1117&color=00FF41&line=00FF41&point=FF3333&area=true&hide_border=true&custom_title=Activity%20Log" alt="GitHub Activity Graph" />
+[![Coding](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&width=700&height=80&lines=while(alive)+%7B+code()%3B+learn()%3B+hack()%3B+%7D;git+commit+-m+%22another+day%2C+another+exploit%22;sudo+rm+-rf+distractions%2F;chmod+%2Bx+life.sh+%26%26+./life.sh)](https://git.io/typing-svg)
 
 </div>
 
