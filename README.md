@@ -1,4 +1,48 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         VIP_IN - PROFILE README                         -->
+<!--                         Project: unDoom                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        unDoom - ANIMATED TITLE                      -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=70&duration=2000&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&width=800&height=100&lines=unDoom;%3E+Focus+Mode+Activated;%3E+Distractions+Terminated;%3E+Study+Lock+Engaged" alt="unDoom" />
+</h1>
+
+<!-- Animated glow effect -->
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/VERSION-2.0-00FF41?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LICENSE-MIT-FF3333?style=for-the-badge&labelColor=000000" />
+</p>
+
+<!-- Animated divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=header&text=unDoom&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       unDoom - TAGLINE                              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `> Focus. Study. Hydrate. Repeat.`
+
+**`unDoom`** — *Ek extension jo tumhe padhai pe focus karata hai, distractions hataata hai, aur paani peene ka reminder deta hai.*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%3E+Blocks+distractions;%3E+Cleans+YouTube;%3E+Reminds+to+drink+water;%3E+Study+mode+ON)](/)
+
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <!--                         VIP_IN - PROFILE README                         -->
 
