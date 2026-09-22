@@ -211,7 +211,7 @@ Full-stack applications, APIs, and experimental web tools.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=toolsbyvipin&bg_color=0D1117&color=00FF41&line=00FF41&point=FF3333&area=true&hide_border=true&custom_title=Activity%20Log" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=toolsbyvipin&bg_color=0D1117&color=00FF41&line=00FF41&point=FF3333&area=true&hide_border=true&custom_title=Activity%20Log" alt="GitHub Activity Graph" />
 
 </div>
 
