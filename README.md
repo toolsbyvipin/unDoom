@@ -52,9 +52,26 @@
 
 <div align="center">
 
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 🎓 TUTORIAL & COMMUNITY SECTION                               -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
- TUTORIAL : https://youtu.be/zH8Um07Vm-8
- JOIN COMMUNITY : https://t.me/unDoomext
+## 🎓 LEARN & CONNECT
+
+<div align="center">
+  
+  <a href="https://youtu.be/zH8Um07Vm-8">
+    <img src="https://img.shields.io/badge/📺%20WATCH%20TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" />
+  </a>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://t.me/unDoomext">
+    <img src="https://img.shields.io/badge/💬%20JOIN%20COMMUNITY-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="40" />
+  </a>
+  
+</div>
+
 
 
 # `> whoami`
