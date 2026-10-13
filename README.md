@@ -53,7 +53,8 @@
 <div align="center">
 
 
-## TUTORIAL : https://youtu.be/zH8Um07Vm-8
+ TUTORIAL : https://youtu.be/zH8Um07Vm-8
+ JOIN COMMUNITY : https://t.me/unDoomext
 
 
 # `> whoami`
